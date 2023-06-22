@@ -1,0 +1,9 @@
+body{
+    background-color: aqua;
+}
+#label{
+    font-size:25px;
+}
+#confidence{
+    font-size: 25px;
+}
